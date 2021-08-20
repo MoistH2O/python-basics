@@ -49,7 +49,6 @@ while bnumcorrect == 0:
         bnumcorrect += 1
     else:
         print('Type it in again then')
-
 if operation == 'add':
     ans = anum+bnum
 elif operation == 'subtract':
