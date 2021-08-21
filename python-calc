@@ -1,3 +1,4 @@
+#This calculator uses most of the common coding syntax with the exception of "for"
 print('This is a custom calculator')
 anumcorrect = 0
 while anumcorrect == 0:
